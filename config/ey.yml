@@ -1,3 +1,5 @@
 environments:
+  ndsample_prod:
+    precompile_assets: true
   ndsample_staging:
     precompile_assets: true
